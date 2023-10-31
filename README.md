@@ -8,7 +8,7 @@ Soy un estudiante apasionado de la carrera Full Stack en Henry, pero disfruto ma
 
 Mi stack tecnológico abarca varias tecnologías clave en el desarrollo web, incluyendo:
 
-- Frontend: React, Redux, JavaScript, HTML, CSS
+- Frontend: React, Redux, JavaScript, HTML, CSS, Tailwind
 - Backend: Node.js, Express, Sequelize, PostgreSQL (ORM para bases de datos relacionales)
 
 ## Qué hago
